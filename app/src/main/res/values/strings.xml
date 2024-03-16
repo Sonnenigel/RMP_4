@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practice4</string>
+    <string name="Fragment1">Динозаврики</string>
+    <string name="Tofragment2">Велоцираптор</string>
+    <string name="Tofragment3">Гадрозавр</string>
+</resources>
